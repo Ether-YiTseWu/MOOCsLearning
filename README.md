@@ -1,6 +1,6 @@
 # Coursera-aiLearning
-A cousera course
+Some cousera courses's notes and codes
 
-## Mind map
+## ML-Andrew Ng
 
-## Course content
+### Course content
