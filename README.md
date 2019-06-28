@@ -1,6 +1,6 @@
 # Coursera-aiLearning
 A cousera course
 
-# Mind map
+## Mind map
 
-# Course content
+## Course content
