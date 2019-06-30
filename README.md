@@ -1,6 +1,9 @@
 # Coursera-aiLearning
 Some cousera courses's notes and codes
 
-### ML-Andrew Ng
+## ML-Andrew Ng
 
-#### Course content
+### Course content
+> 
+* Basic concept 
+* Linear regression
