@@ -11,7 +11,7 @@ Some cousera courses's notes and codes
 >* regression / classification problem
 * Linear regression
 * cost function
-* Gradient descent *
+>* Gradient descent *
 >* feature scaling
 >* normalization
 >* learning rate
