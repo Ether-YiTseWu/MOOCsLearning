@@ -6,13 +6,13 @@ Some cousera courses's notes and codes
 ### Course content
 > 
 * Basic concept about ml
->* linear algebra review
->* supervise learning / unsupervise learning
->* regression / classification problem
+>* Linear algebra review
+>* Supervise learning / Unsupervise learning
+>* Regression / Classification problem
+>* Cost function
 * Algorithm about AI
 >* Linear regression
->* Cost function
 >* Gradient descent 
 >>* feature scaling
->* normalization
->* learning rate
+>>* normalization
+>>* learning rate
