@@ -9,9 +9,10 @@ Some cousera courses's notes and codes
 >* linear algebra review
 >* supervise learning / unsupervise learning
 >* regression / classification problem
-* Linear regression
-* cost function
-* Gradient descent 
->* feature scaling
+* Algorithm about AI
+>* Linear regression
+>* Cost function
+>* Gradient descent 
+>>* feature scaling
 >* normalization
 >* learning rate
