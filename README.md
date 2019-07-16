@@ -11,12 +11,10 @@ Some cousera courses's notes and codes
 >* Regression / Classification problem
 >* Cost function
 * Algorithm of ML
->* Linear regression   
->for regression proplem
+>* Linear regression(for regression proplems)
 >>* one variable
 >>* multiple variables/polynomial regression
->* Logistic regression     
->for classification proplem
+>* Logistic regression(for classification proplem)
 >* Neural network
 * Optimization algorithm
 >* Gradient descent 
