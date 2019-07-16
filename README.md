@@ -10,6 +10,8 @@ Some cousera courses's notes and codes
 >* Supervise learning / Unsupervise learning
 >* Regression / Classification problem
 >* Cost function
+>
+>
 * Algorithm of ML
 >* Linear regression(for regression proplems)
 >>* one variable
@@ -18,6 +20,7 @@ Some cousera courses's notes and codes
 >* Logistic regression(for classification proplems)
 >
 >* Neural network
+>
 >
 * Optimization algorithm
 >* Gradient descent 
