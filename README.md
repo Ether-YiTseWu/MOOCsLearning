@@ -14,8 +14,11 @@ Some cousera courses's notes and codes
 >* Linear regression(for regression proplems)
 >>* one variable
 >>* multiple variables/polynomial regression
->* Logistic regression(for classification proplem)
+>
+>* Logistic regression(for classification proplems)
+>
 >* Neural network
+>
 * Optimization algorithm
 >* Gradient descent 
 >>* feature scaling
