@@ -18,8 +18,10 @@ for i = 1:length(judge)
     else
         p(i) = 0;
     end
-end                                                                 
+end      
 
+% regulation
+% ============================================================ %
 %COSTFUNCTIONREG
 hof_theta = (1./(1+exp(sum((-theta'.*X)'))))';
 J = -1/m*sum(y.*log(hof_theta) + (1.-y).*log(1.-hof_theta));
@@ -29,6 +31,8 @@ grad = (hof_theta - y)'*X/m;
 grad = grad';
 grad(2:3) = grad(2:3) + lambda/m.*theta(2:3)                        % Regularized Logistic Regression Gradient
 
+% plot
+% ============================================================ %
 %PLOTDATA 
 pos = find(y == 1); 
 neg = find(y == 0);
