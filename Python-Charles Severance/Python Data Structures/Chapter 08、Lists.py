@@ -1,16 +1,32 @@
-class Solution:
-    def reverse(self, x: int) -> int:
-        
-        if x >= 2**31-1 or x <= -2**31: return 0
-        else:
-            strX = str(x)               #change x to the str form so that I can operate x easily
-            
-        if x >= 0 :
-            revst = strX[::-1]          #This is the key point
-        else:
-            temp = strX[1:] 
-            temp2 = temp[::-1] 
-            revst = "-" + temp2
-            
-        if int(revst) >= 2**31-1 or int(revst) <= -2**31: return 0
-        else: return int(revst)
+# 8.4
+#=======================================================================
+fname = input("Enter file name: ")
+fh = open(fname)
+lst = list()
+for line in fh:
+    words = line.rstrip()
+    words = words.split()
+    for word in words:
+        if word in lst: continue
+        lst.append(word)
+
+lst.sort()
+print(lst)
+
+# 8.5
+#=======================================================================
+fname = input("Enter file name: ")
+if len(fname) < 1 : fname = "mbox-short.txt"
+
+fh = open(fname)
+count = 0
+
+for line in fh:
+    line = line.rstrip()
+    if not line.startswith('From') : continue
+    if line.startswith('From:') : continue
+    words = line.split()
+    print(words[1])
+    count = count + 1
+    
+print("There were", count, "lines in the file with From as the first word")
