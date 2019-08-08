@@ -1,32 +1,22 @@
-# 8.4
+# 9.4
 #=======================================================================
-fname = input("Enter file name: ")
-fh = open(fname)
-lst = list()
-for line in fh:
-    words = line.rstrip()
-    words = words.split()
-    for word in words:
-        if word in lst: continue
-        lst.append(word)
+name = input("Enter file:")
+if len(name) < 1 : name = "mbox-short.txt"
+handle = open(name)
+count = dict()
 
-lst.sort()
-print(lst)
-
-# 8.5
-#=======================================================================
-fname = input("Enter file name: ")
-if len(fname) < 1 : fname = "mbox-short.txt"
-
-fh = open(fname)
-count = 0
-
-for line in fh:
-    line = line.rstrip()
+for line in handle:
     if not line.startswith('From') : continue
     if line.startswith('From:') : continue
     words = line.split()
-    print(words[1])
-    count = count + 1
-    
-print("There were", count, "lines in the file with From as the first word")
+    mailWord = words[1]
+    count[mailWord] = count.get(mailWord,0) + 1
+
+biggestWord = ''
+biggestCount = 0
+for key in count:
+    if count[key] > biggestCount:
+        biggestCount = count[key]
+        biggestWord = key
+
+print(biggestWord,biggestCount)
