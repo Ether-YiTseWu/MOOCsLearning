@@ -1,22 +1,23 @@
-# 9.4
+# 10.2
 #=======================================================================
 name = input("Enter file:")
 if len(name) < 1 : name = "mbox-short.txt"
 handle = open(name)
+
 count = dict()
+hourLst = list()
 
 for line in handle:
-    if not line.startswith('From') : continue
-    if line.startswith('From:') : continue
+    if not line.startswith('From '): continue
     words = line.split()
-    mailWord = words[1]
-    count[mailWord] = count.get(mailWord,0) + 1
+    temp = words[5]
+    hour = temp.split(':')
+    hour = hour[0]
+    hourLst.append(hour)
 
-biggestWord = ''
-biggestCount = 0
-for key in count:
-    if count[key] > biggestCount:
-        biggestCount = count[key]
-        biggestWord = key
+for hour in hourLst:
+    count[hour] = count.get(hour,0) + 1
+count = sorted(count.items())
 
-print(biggestWord,biggestCount)
+for hour,num in count:
+    print(hour,num)
