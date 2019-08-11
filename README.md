@@ -6,31 +6,31 @@ Some cousera courses's notes and codes
 ### Course content
 > 
 #### Basic concept about ML
->* Linear algebra review
->* Supervise learning / Unsupervise learning
->* Regression / Classification problem
->* Cost function
+* Linear algebra review
+* Supervise learning / Unsupervise learning
+* Regression / Classification problem
+* Cost function
 >
 >
-* Algorithm of ML
->* Linear regression(for regression proplems)
->>* one variable
->>* multiple variables / polynomial regression
+#### Algorithm of ML
+* Linear regression(for regression proplems)
+>* one variable
+>* multiple variables / polynomial regression
 >
->* Logistic regression(for classification proplems)
+* Logistic regression(for classification proplems)
 >
->* Neural network
+* Neural network
 >
->* Support Vector Machines
+* Support Vector Machines
 >
->* K-means Clustering
+* K-means Clustering
 >
 >* Principal Component Analysis
 >
 >
-* Optimization algorithm
->* Gradient descent 
->>* feature scaling
->>* normalization
->>* learning rate
->* Normal equation
+#### Optimization algorithm
+* Gradient descent 
+>* feature scaling
+>* normalization
+>* learning rate
+* Normal equation
