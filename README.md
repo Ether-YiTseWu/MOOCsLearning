@@ -25,7 +25,7 @@ Some cousera courses's notes and codes
 >
 * K-means Clustering
 >
->* Principal Component Analysis
+* Principal Component Analysis
 >
 >
 #### Optimization algorithm
