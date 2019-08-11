@@ -5,7 +5,7 @@ Some cousera courses's notes and codes
 
 ### Course content
 > 
-* Basic concept about ML
+#### Basic concept about ML
 >* Linear algebra review
 >* Supervise learning / Unsupervise learning
 >* Regression / Classification problem
