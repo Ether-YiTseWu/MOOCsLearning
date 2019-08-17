@@ -3,9 +3,9 @@ Some cousera courses's notes and codes
 
 ## ML-Andrew Ng
 
-### Course content
+### Course Content
 > 
-#### Basic concept about ML
+#### Basic Concept About ML
 * Linear algebra review
 * Supervise learning / Unsupervise learning
 * Regression / Classification problem
@@ -28,9 +28,15 @@ Some cousera courses's notes and codes
 * Principal Component Analysis
 >
 >
-#### Optimization algorithm
-* Gradient descent 
->* feature scaling
->* normalization
->* learning rate
+#### Optimization Algorithm
+* Gradient descent
+>* batch gradient descent
+>* mini-batch gradient descent
+>* stochastic gradient descent
 * Normal equation
+>
+>
+#### Parameter Adjustment
+* feature scaling
+* normalization
+* learning rate
