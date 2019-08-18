@@ -6,10 +6,7 @@ Some cousera courses's notes and codes
 ### Course Content
 > 
 #### Basic Concept About ML
-* Linear algebra review
-* Supervise learning / Unsupervise learning
-* Regression / Classification problem
-* Cost function
+Linear algebra review、Supervise learning / Unsupervise learning、Regression / Classification problem、Cost function
 >
 >
 #### Algorithm of ML
@@ -37,6 +34,4 @@ Some cousera courses's notes and codes
 >
 >
 #### Parameter Adjustment
-* feature scaling
-* normalization
-* learning rate
+feature scaling、normalization、learning rate
