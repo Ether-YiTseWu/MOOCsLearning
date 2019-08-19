@@ -4,6 +4,7 @@ Some cousera courses's notes and codes
 ## ML-Andrew Ng
 ### Mind Map
 >
+>
 ### Course Content
 > 
 #### Basic Concept About ML
@@ -11,13 +12,9 @@ Linear algebra review、Supervise learning / Unsupervise learning、Regression /
 >
 >
 #### Algorithm of ML
-* Supervise Learning:  
+* Supervise Learning : Linear regression(for regression proplems)、Logistic regression(for classification proplems)、Neural network、Support Vector Machines(SVM)
 >
-Linear regression(for regression proplems)、Logistic regression(for classification proplems)、Neural network、Support Vector Machines(SVM)
->
-*  Unsupervise Learning:  
->
-K-means Clustering、Principal Component Analysis(PCA)、Anomaly detection
+*  Unsupervise Learning : K-means Clustering、Principal Component Analysis(PCA)、Anomaly detection
 >
 >
 #### Optimization Algorithm
