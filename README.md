@@ -3,7 +3,7 @@ Some cousera courses's notes and codes
 
 ## ML-Andrew Ng
 ### Mind Map
->
+![](https://github.com/tailer954/Coursera-aiLearning/blob/master/ML-Andrew%20Ng/ML-Andrew%20Wu.png)
 >
 ### Course Content
 > 
