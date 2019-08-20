@@ -2,10 +2,10 @@
 Some cousera courses's notes and codes
 
 ## ML-Andrew Ng
-### Mind Map
+### **Mind Map**
 ![](https://github.com/tailer954/Coursera-aiLearning/blob/master/ML-Andrew%20Ng/ML-Andrew%20Wu.png)
 >
-### Course Content
+### **Course Content**
 > 
 #### Basic Concept About ML
 Linear algebra review、Supervise learning / Unsupervise learning、Regression / Classification problem、Cost function
