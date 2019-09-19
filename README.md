@@ -1,5 +1,5 @@
-# Coursera-aiLearning
-Some cousera courses's notes and codes
+# MOOCsLearning
+Some MOOCs's notes and codes
 
 ## ML-Andrew Ng
 ### **Mind Map**
