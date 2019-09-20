@@ -3,37 +3,16 @@
 Some MOOCs's notes and codes
 - Coursera : ML-Andrew Ng、PYTHON-Charles Severance
 >
-- Udemy : Python 與資料科學入門
+- Udemy : Python 與資料科學入門-郭耀仁
 >
 - Microsoft : Data Science Orientation-Graeme Malcolm and Liberty J. Munson
 >
 ## ML-Andrew Ng
-### Mind Map
 ![](https://github.com/tailer954/Coursera-aiLearning/blob/master/ML-Andrew%20Ng/ML-Andrew%20Wu.png)
 >
-### Course Content
-> 
-#### Basic Concept About ML
-Linear algebra review、Supervise learning / Unsupervise learning、Regression / Classification problem、Cost function
+## Python 與資料科學入門-郭耀仁
+
 >
+## Data Science Orientation-Graeme Malcolm and Liberty J. Munson
+
 >
-#### Algorithm of ML
-* Supervise Learning : Linear regression(for regression proplems)、Logistic regression(for classification proplems)、Neural network、Support Vector Machines(SVM)
->
-*  Unsupervise Learning : K-means Clustering、Principal Component Analysis(PCA)、Anomaly detection
->
->
-#### Optimization Algorithm
-Gradient descent(batch gradient descent、mini-batch gradient descent、stochastic gradient descent)、Normal equation
->
->
-#### Parameter Adjustment
-feature scaling、normalization、learning rate
->
->
-#### Advice on Building a ML System
-Bias/variance、Regularization、Learning curves、Error analysis、Ceiling analysis
->
->
-#### Some Applications
-Recommender systems、Large scale ML、Photo OCR
