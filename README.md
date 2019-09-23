@@ -14,5 +14,5 @@ Some MOOCs's notes and codes
 
 >
 ## Data Science Orientation-Graeme Malcolm and Liberty J. Munson
-
+![](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structure.png)
 >
