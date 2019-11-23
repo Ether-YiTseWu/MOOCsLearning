@@ -1,6 +1,6 @@
 # MOOCsLearning
 ## Overview
-Some MOOCs's notes and codes
+Some notes and codes made by my own. These sources are made from some courses like Microsoft, Coursera, and Udemy.
 - Microsoft : Data Science Orientation-Graeme Malcolm and Liberty J. Munson
 >
 - Coursera : ML-Andrew Ng、PYTHON-Charles Severance
