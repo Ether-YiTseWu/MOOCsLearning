@@ -1,4 +1,21 @@
 # ML-Andrew Ng
+## Notes
+- Note01 Introduction of ML and Linear Regression With One Variable
+- Note02 Linear Regression with Multiple Variables
+- Note03 Logistic Regression and Regularization
+- Note04 Multi-class Classification and Neural Networks
+- Note05 Neural Network Learning
+- Note06 Advice for Applying ML and ML System Design
+- Note07 Support Vector Machines
+- Note08 K-Means Clustering and PCA
+- Note09 Anomaly Detection and Recommender Systems
+- Note10 Large Scale Machine Learning
+- Note11 Application Example Photo OCR
+>
+## Code
+- Code02
+- Code03
+>
 ## Course Content
 > 
 ### Basic Concept About ML
