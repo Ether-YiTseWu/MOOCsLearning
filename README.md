@@ -26,14 +26,14 @@ Some notes and codes made by my own. These sources are made from some courses wh
 - [Note11 : Application Example Photo OCR](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2011%20-%20Application%20Example%20Photo%20OCR/Machine%20learning%20_%20Week11.pdf)
 >
 ## Code
-- Code02 : Linear Regression with Multiple Variables
-- Code03 : Logistic Regression and Regularization
-- Code04 : Multi-class Classification and Neural Networks
-- Code05 : Neural Network Learning
-- Code06 : Advice for Applying ML and ML System Design
-- Code07 : Support Vector Machines
-- Code08 : K-Means Clustering and PCA
-- Code09 : Anomaly Detection and Recommender Systems
+- [Code02 : Linear Regression with Multiple Variables](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2002%20-%20Linear%20Regression%20with%20Multiple%20Variables/Linear%20Regression.m)
+- [Code03 : Logistic Regression and Regularization](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2003%20-%20Logistic%20Regression%20and%20Regularization/Logistic%20Regression.m)
+- [Code04 : Multi-class Classification and Neural Networks](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2004%20-%20Multi-class%20Classification%20and%20Neural%20Networks/Multi-class%20Classification%20and%20Neural%20Networks.m)
+- [Code05 : Neural Network Learning](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2005%20-%20Neural%20Network%20Learning/Neural%20Network%20Learning.m)
+- [Code06 : Advice for Applying ML and ML System Design](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2006%20-%20Advice%20for%20Applying%20ML%20and%20ML%20System%20Design/Regularized%20Linear%20Regression%20and%20BiasVariance.m)
+- [Code07 : Support Vector Machines](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2007%20-%20Support%20Vector%20Machines/Support%20Vector%20Machines.m)
+- [Code08 : K-Means Clustering and PCA](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2008%20-%20K-Means%20Clustering%20and%20PCA/K-Means%20Clustering%20and%20PCA.m)
+- [Code09 : Anomaly Detection and Recommender Systems](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2009%20-%20Anomaly%20Detection%20and%20Recommender%20Systems/Anomaly%20Detection%20and%20Recommender%20Systems.m)
 >
 ## Course Content
 > 
