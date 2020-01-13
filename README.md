@@ -64,7 +64,16 @@ Recommender systems、Large scale ML、Photo OCR
 
 >
 # Python Data Structure
-![](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structure.png)
+![](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Python%20Data%20Structure.png)
+## Notes
+- [Python data structure](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/%E9%9B%B6%E5%9F%BA%E7%A4%8EPython%E5%85%A5%E9%96%80%20%E2%80%94%20Python%20data%20structure.pdf)
+>
+## Code
+- [Chapter 06、Strings](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2006%E3%80%81Strings.py)
+- [Chapter 07、Files](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2007%E3%80%81Files.py)
+- [Chapter 08、Lists](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2008%E3%80%81Lists.py)
+- [Chapter 09、Dictionaries](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2009%E3%80%81Dictionaries.py)
+- [Chapter 10、Tuples](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2010%E3%80%81Tuples.py)
 >
 # Python 與資料科學入門
 ![](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.png)
