@@ -2,7 +2,7 @@
 Some notes and codes made by my own. These sources are made from some courses which provided by Microsoft, Coursera, and Udemy.
 - Microsoft : Data Science Orientation-Graeme Malcolm and Liberty J. Munson
 >
-- Coursera : Machine Learning-Andrew Ng、Python Data Structure-Charles Severance
+- Coursera : Machine Learning-Andrew Ng、Python Data Structure-Charles Severance、Using Python to Access Web Data-Charles Severance
 >
 - Udemy : Python 與資料科學入門-郭耀仁
 >
