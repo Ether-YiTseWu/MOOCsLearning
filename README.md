@@ -7,10 +7,10 @@ Some notes and codes made by my own. These sources are made from some courses wh
 - Udemy : Python 與資料科學入門-郭耀仁
 >
 # Data Science Orientation
-![](https://github.com/tailer954/MOOCsLearning/blob/master/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson.PNG)
+<!--![](https://github.com/tailer954/MOOCsLearning/blob/master/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson.PNG)-->
 >
 # Machine Learning
-![](https://github.com/tailer954/Coursera-aiLearning/blob/master/ML-Andrew%20Ng/ML-Andrew%20Wu.png)
+<!--![](https://github.com/tailer954/Coursera-aiLearning/blob/master/ML-Andrew%20Ng/ML-Andrew%20Wu.png)-->
 >
 ## Note
 - [Note01 : Introduction of ML and Linear Regression With One Variable](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2001%20-%20Introduction%20of%20ML%20and%20Linear%20Regression%20With%20One%20Variable/Machine%20learning%20_%20Week01.pdf)
@@ -35,7 +35,7 @@ Some notes and codes made by my own. These sources are made from some courses wh
 - [Code07 : K-Means Clustering and PCA](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2008%20-%20K-Means%20Clustering%20and%20PCA/K-Means%20Clustering%20and%20PCA.m)
 - [Code08 : Anomaly Detection and Recommender Systems](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2009%20-%20Anomaly%20Detection%20and%20Recommender%20Systems/Anomaly%20Detection%20and%20Recommender%20Systems.m)
 >
-## Course Content
+<!--## Course Content
 > 
 ### Basic Concept About ML
 Linear algebra review、Supervise learning / Unsupervise learning、Regression / Classification problem、Cost function
@@ -60,11 +60,11 @@ Bias/variance、Regularization、Learning curves、Error analysis、Ceiling anal
 >
 >
 ### Some Applications
-Recommender systems、Large scale ML、Photo OCR
+Recommender systems、Large scale ML、Photo OCR-->
 
 >
 # Python Data Structure
-![](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Python%20Data%20Structure.png)
+<!--![](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Python%20Data%20Structure.png)-->
 ## Note
 - [Python data structure](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/%E9%9B%B6%E5%9F%BA%E7%A4%8EPython%E5%85%A5%E9%96%80%20%E2%80%94%20Python%20data%20structure.pdf)
 >
@@ -86,5 +86,7 @@ Recommender systems、Large scale ML、Photo OCR
 - [Code02：Understanding the Request Response Cycle](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2012%E3%80%81Networks%20and%20Sockets.py)
 >
 # Python 與資料科學入門
-![](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.png)
+<!--![](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.png)-->
 >
+## Note
+[Python 與 資料科學入門](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.pdf)
