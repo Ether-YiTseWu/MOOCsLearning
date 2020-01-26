@@ -1,13 +1,16 @@
 # 9.4
 #=======================================================================
 name = input("Enter file:")
-if len(name) < 1 : name = "mbox-short.txt"
+if len(name) < 1 : 
+    name = "mbox-short.txt"
 handle = open(name)
 count = dict()
 
 for line in handle:
-    if not line.startswith('From') : continue
-    if line.startswith('From:') : continue
+    if not line.startswith('From') : 
+        continue
+    if line.startswith('From:') : 
+        continue
     words = line.split()
     mailWord = words[1]
     count[mailWord] = count.get(mailWord,0) + 1
