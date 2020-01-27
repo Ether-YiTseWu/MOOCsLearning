@@ -1,10 +1,15 @@
 # Overview
 Some notes and codes made by my own. These sources are made from some courses which provided by Microsoft, Coursera, and Udemy.
-- Microsoft : Data Science Orientation-Graeme Malcolm and Liberty J. Munson
+### From Microsoft     
+- Data Science Orientation by Graeme Malcolm and Liberty J. Munson
 >
-- Coursera : Machine Learning-Andrew Ng、Python Data Structure-Charles Severance、Using Python to Access Web Data-Charles Severance
+### From Coursera
+- Machine Learning by Andrew Ng
+- Python Data Structure by Charles Severance
+- Using Python to Access Web Data by Charles Severance
 >
-- Udemy : Python 與資料科學入門-郭耀仁
+### From Udemy
+- Python 與資料科學入門-郭耀仁
 >
 # Data Science Orientation
 <!--![](https://github.com/tailer954/MOOCsLearning/blob/master/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson.PNG)-->
@@ -88,6 +93,7 @@ Recommender systems、Large scale ML、Photo OCR-->
 - [Code02：Understanding the Request Response Cycle](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2012%E3%80%81Networks%20and%20Sockets.py)
 - [Code03：Scraping HTML Data with BeautifulSoup](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81Programs%20that%20Surf%20the%20Web_01.py)
 - [Code04：Following Links in HTML Using BeautifulSoup](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81Programs%20that%20Surf%20the%20Web_02.py)
+- Code05：Extracting Data from XML
 >
 # Python 與資料科學入門
 <!--![](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.png)-->
