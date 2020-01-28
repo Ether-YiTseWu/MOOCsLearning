@@ -1,5 +1,5 @@
 # Overview
-Some notes and codes made by my own. These sources are made from some courses which provided by Microsoft, Coursera, and Udemy.
+Some notes and codes made by my own. These sources are made from some courses which provided by Microsoft, Coursera, and Udemy. Move your mouse, let the page down, you can see my notes and codes about the following course. Welcome to download and share
 ### From Microsoft     
 - Data Science Orientation by Graeme Malcolm and Liberty J. Munson
 >
