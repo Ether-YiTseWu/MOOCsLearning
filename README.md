@@ -92,15 +92,15 @@ Recommender systems、Large scale ML、Photo OCR-->
 ### Note
 - [Note01：Regular Expressions](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week01_Regular%20Expression.pdf)
 - [Note02：Network and Sockets](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week02_Network%20and%20Sockets.pdf)
-- [Note03：Programs that Surf the Web]()
-- [Note04：Web Services and XML]()
+- [Note03：Programs that Surf the Web](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week03_Programs%20that%20Surf%20the%20Web.pdf)
+- Note04：Web Services and XML
 >
 ### Code
 - [Code01：Extracting Data With Regular Expressions](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2011%E3%80%81Regular%20Expressions.py)
 - [Code02：Understanding the Request Response Cycle](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2012%E3%80%81Networks%20and%20Sockets.py)
 - [Code03：Scraping HTML Data with BeautifulSoup](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81Programs%20that%20Surf%20the%20Web_01.py)
 - [Code04：Following Links in HTML Using BeautifulSoup](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81Programs%20that%20Surf%20the%20Web_02.py)
-- [Code05：Extracting Data from XML]()
+- [Code05：Extracting Data from XML](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81Web%20Services%20and%20XML.py)
 >
 # Python 與資料科學入門
 <!--![](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.png)-->
