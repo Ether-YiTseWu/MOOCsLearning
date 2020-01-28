@@ -5,6 +5,7 @@ Some notes and codes made by my own. These sources are made from some courses wh
 >
 ### From Coursera
 - Machine Learning by Andrew Ng
+- Mathematics for Machine Learning by David Dye, Samuel J. Cooper, and A Freddie Page
 - Python Data Structure by Charles Severance
 - Using Python to Access Web Data by Charles Severance
 >
@@ -42,6 +43,10 @@ Some notes and codes made by my own. These sources are made from some courses wh
 - [Code07 : K-Means Clustering and PCA](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2008%20-%20K-Means%20Clustering%20and%20PCA/K-Means%20Clustering%20and%20PCA.m)
 - [Code08 : Anomaly Detection and Recommender Systems](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2009%20-%20Anomaly%20Detection%20and%20Recommender%20Systems/Anomaly%20Detection%20and%20Recommender%20Systems.m)
 >
+# Mathematics for Machine Learning : Linear Algebra
+>
+### Note
+- [Mathematics for Machine Learning : Linear Algebra](https://github.com/tailer954/MOOCsLearning/blob/master/Mathematics%20for%20Machine%20Learning-David%20Dye%2C%20Samuel%20J.%20Cooper%2C%20and%20A%20Freddie%20Page/Part01_Linear%20algebra.pdf)
 <!--## Course Content
 > 
 ### Basic Concept About ML
@@ -87,13 +92,15 @@ Recommender systems、Large scale ML、Photo OCR-->
 ### Note
 - [Note01：Regular Expressions](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week01_Regular%20Expression.pdf)
 - [Note02：Network and Sockets](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week02_Network%20and%20Sockets.pdf)
+- [Note03：Programs that Surf the Web]()
+- [Note04：Web Services and XML]()
 >
 ### Code
 - [Code01：Extracting Data With Regular Expressions](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2011%E3%80%81Regular%20Expressions.py)
 - [Code02：Understanding the Request Response Cycle](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2012%E3%80%81Networks%20and%20Sockets.py)
 - [Code03：Scraping HTML Data with BeautifulSoup](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81Programs%20that%20Surf%20the%20Web_01.py)
 - [Code04：Following Links in HTML Using BeautifulSoup](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81Programs%20that%20Surf%20the%20Web_02.py)
-- Code05：Extracting Data from XML
+- [Code05：Extracting Data from XML]()
 >
 # Python 與資料科學入門
 <!--![](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.png)-->
