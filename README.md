@@ -5,7 +5,7 @@ Some notes and codes made by my own. These sources are made from some courses wh
 >
 ### From Coursera
 - Machine Learning by Andrew Ng
-- Mathematics for Machine Learning by David Dye, Samuel J. Cooper, and A Freddie Page
+- Mathematics for Machine Learning : Linear Algebra by David Dye, Samuel J. Cooper, and A Freddie Page
 - Python Data Structure by Charles Severance
 - Using Python to Access Web Data by Charles Severance
 >
