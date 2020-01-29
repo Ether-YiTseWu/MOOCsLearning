@@ -1,5 +1,5 @@
 # Overview
-Some notes and codes made by my own. These sources are made from some courses which provided by Microsoft, Coursera, and Udemy. Move your mouse, let the page down, you can see my notes and codes about the following courses. Welcome to download and share
+Some notes and codes made by my own. These sources are made from some courses which provided by Microsoft, Coursera, and Udemy. Move your mouse, let the page down, you can see the links of my notes and code
 ### From Microsoft     
 - Data Science Orientation by Graeme Malcolm and Liberty J. Munson
 >
@@ -93,7 +93,7 @@ Recommender systems、Large scale ML、Photo OCR-->
 - [Note01：Regular Expressions](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week01_Regular%20Expression.pdf)
 - [Note02：Network and Sockets](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week02_Network%20and%20Sockets.pdf)
 - [Note03：Programs that Surf the Web](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week03_Programs%20that%20Surf%20the%20Web.pdf)
-- Note04：Web Services and XML
+- [Note04：Web Services and XML](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week04_Web%20Services%20and%20XML.pdf)
 >
 ### Code
 - [Code01：Extracting Data With Regular Expressions](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2011%E3%80%81Regular%20Expressions.py)
