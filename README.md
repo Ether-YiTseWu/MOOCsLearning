@@ -7,6 +7,7 @@ Some notes and codes made by my own. These sources are made from some courses wh
 - Mathematics for Machine Learning : Linear Algebra by David Dye, Samuel J. Cooper, and A Freddie Page
 >
 ### From Udemy
+- 建網百科全書-Ken
 - Python 與資料科學入門-郭耀仁
 >
 ### From Microsoft     
@@ -15,6 +16,16 @@ Some notes and codes made by my own. These sources are made from some courses wh
 
 # Machine Learning
 <!--![](https://github.com/tailer954/Coursera-aiLearning/blob/master/ML-Andrew%20Ng/ML-Andrew%20Wu.png)-->
+>
+### Code
+- [Code01 : Linear Regression with Multiple Variables](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2002%20-%20Linear%20Regression%20with%20Multiple%20Variables/Linear%20Regression.m)
+- [Code02 : Logistic Regression and Regularization](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2003%20-%20Logistic%20Regression%20and%20Regularization/Logistic%20Regression.m)
+- [Code03 : Multi-class Classification and Neural Networks](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2004%20-%20Multi-class%20Classification%20and%20Neural%20Networks/Multi-class%20Classification%20and%20Neural%20Networks.m)
+- [Code04 : Neural Network Learning](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2005%20-%20Neural%20Network%20Learning/Neural%20Network%20Learning.m)
+- [Code05 : Advice for Applying ML and ML System Design](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2006%20-%20Advice%20for%20Applying%20ML%20and%20ML%20System%20Design/Regularized%20Linear%20Regression%20and%20BiasVariance.m)
+- [Code06 : Support Vector Machines](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2007%20-%20Support%20Vector%20Machines/Support%20Vector%20Machines.m)
+- [Code07 : K-Means Clustering and PCA](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2008%20-%20K-Means%20Clustering%20and%20PCA/K-Means%20Clustering%20and%20PCA.m)
+- [Code08 : Anomaly Detection and Recommender Systems](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2009%20-%20Anomaly%20Detection%20and%20Recommender%20Systems/Anomaly%20Detection%20and%20Recommender%20Systems.m)
 >
 ### Note
 - [Note01 : Introduction of ML and Linear Regression With One Variable](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2001%20-%20Introduction%20of%20ML%20and%20Linear%20Regression%20With%20One%20Variable/Machine%20learning%20_%20Week01.pdf)
@@ -28,16 +39,6 @@ Some notes and codes made by my own. These sources are made from some courses wh
 - [Note09 : Anomaly Detection and Recommender Systems](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2009%20-%20Anomaly%20Detection%20and%20Recommender%20Systems/Machine%20learning%20_%20Week09.pdf)
 - [Note10 : Large Scale Machine Learning](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2010%20-%20Large%20Scale%20Machine%20Learning/Machine%20learning%20_%20Week10.pdf)
 - [Note11 : Application Example Photo OCR](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2011%20-%20Application%20Example%20Photo%20OCR/Machine%20learning%20_%20Week11.pdf)
->
-### Code
-- [Code01 : Linear Regression with Multiple Variables](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2002%20-%20Linear%20Regression%20with%20Multiple%20Variables/Linear%20Regression.m)
-- [Code02 : Logistic Regression and Regularization](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2003%20-%20Logistic%20Regression%20and%20Regularization/Logistic%20Regression.m)
-- [Code03 : Multi-class Classification and Neural Networks](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2004%20-%20Multi-class%20Classification%20and%20Neural%20Networks/Multi-class%20Classification%20and%20Neural%20Networks.m)
-- [Code04 : Neural Network Learning](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2005%20-%20Neural%20Network%20Learning/Neural%20Network%20Learning.m)
-- [Code05 : Advice for Applying ML and ML System Design](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2006%20-%20Advice%20for%20Applying%20ML%20and%20ML%20System%20Design/Regularized%20Linear%20Regression%20and%20BiasVariance.m)
-- [Code06 : Support Vector Machines](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2007%20-%20Support%20Vector%20Machines/Support%20Vector%20Machines.m)
-- [Code07 : K-Means Clustering and PCA](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2008%20-%20K-Means%20Clustering%20and%20PCA/K-Means%20Clustering%20and%20PCA.m)
-- [Code08 : Anomaly Detection and Recommender Systems](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2009%20-%20Anomaly%20Detection%20and%20Recommender%20Systems/Anomaly%20Detection%20and%20Recommender%20Systems.m)
 >
 <!--## Course Content
 > 
@@ -67,13 +68,6 @@ Bias/variance、Regularization、Learning curves、Error analysis、Ceiling anal
 Recommender systems、Large scale ML、Photo OCR-->
 
 # Using Python to Access Web Data
-
-### Note
-- [Note01：Regular Expressions](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week01_Regular%20Expression.pdf)
-- [Note02：Network and Sockets](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week02_Network%20and%20Sockets.pdf)
-- [Note03：Programs that Surf the Web](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week03_Programs%20that%20Surf%20the%20Web.pdf)
-- [Note04：Web Services and XML](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week04_Web%20Services%20and%20XML.pdf)
-- [Note05：JSON and the REST Architecture](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week05_JSON%20and%20the%20REST%20Architecture.pdf)
 >
 ### Code
 - [Code01：Extracting Data With Regular Expressions](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2011%E3%80%81Regular%20Expressions.py)
@@ -84,11 +78,16 @@ Recommender systems、Large scale ML、Photo OCR-->
 - [Code06：Extracting Data from JSON](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81JSON%20and%20the%20REST%20Architecture_01.py)
 - [Code07：Using the GeoJSON API](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81JSON%20and%20the%20REST%20Architecture_02.py)
 >
-# Python Data Structure
-<!--![](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Python%20Data%20Structure.png)-->
 ### Note
-- [Python data structure](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/%E9%9B%B6%E5%9F%BA%E7%A4%8EPython%E5%85%A5%E9%96%80%20%E2%80%94%20Python%20data%20structure.pdf)
+- [Note01：Regular Expressions](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week01_Regular%20Expression.pdf)
+- [Note02：Network and Sockets](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week02_Network%20and%20Sockets.pdf)
+- [Note03：Programs that Surf the Web](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week03_Programs%20that%20Surf%20the%20Web.pdf)
+- [Note04：Web Services and XML](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week04_Web%20Services%20and%20XML.pdf)
+- [Note05：JSON and the REST Architecture](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week05_JSON%20and%20the%20REST%20Architecture.pdf)
 >
+# Python Data Structure
+>
+<!--![](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Python%20Data%20Structure.png)-->
 ### Code
 - [Code01：Strings](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2006%E3%80%81Strings.py)
 - [Code02：Files](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2007%E3%80%81Files.py)
@@ -96,10 +95,26 @@ Recommender systems、Large scale ML、Photo OCR-->
 - [Code04：Dictionaries](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2009%E3%80%81Dictionaries.py)
 - [Code05：Tuples](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2010%E3%80%81Tuples.py)
 >
+### Note
+- [Python data structure](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/%E9%9B%B6%E5%9F%BA%E7%A4%8EPython%E5%85%A5%E9%96%80%20%E2%80%94%20Python%20data%20structure.pdf)
+>
 # Mathematics for Machine Learning : Linear Algebra
 >
 ### Note
 - [Mathematics for Machine Learning : Linear Algebra](https://github.com/tailer954/MOOCsLearning/blob/master/Mathematics%20for%20Machine%20Learning-David%20Dye%2C%20Samuel%20J.%20Cooper%2C%20and%20A%20Freddie%20Page/Part01_Linear%20algebra.pdf)
+>
+# 建網百科全書
+>
+### Project
+- Project01:HTML
+-
+### Code
+- [Code01：Form](https://github.com/tailer954/MOOCsLearning/blob/master/%E5%BB%BA%E7%B6%B2%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8/HTML/Form.html)
+- [Code02：Others](https://github.com/tailer954/MOOCsLearning/blob/master/%E5%BB%BA%E7%B6%B2%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8/HTML/Others.html)
+>
+### Note
+- Note01：HTML
+- Note02：CSS
 >
 # Python 與資料科學入門
 <!--![](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.png)-->
@@ -108,6 +123,7 @@ Recommender systems、Large scale ML、Photo OCR-->
 - [Python 與 資料科學入門](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.pdf)
 >
 # Data Science Orientation
+>
 <!--![](https://github.com/tailer954/MOOCsLearning/blob/master/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson.PNG)-->
 ### Note
 - [資料科學概論](https://github.com/tailer954/MOOCsLearning/blob/master/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E6%A6%82%E8%AB%96.pdf)
