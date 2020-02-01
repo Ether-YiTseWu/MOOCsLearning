@@ -1,22 +1,18 @@
 # Overview
-Some notes and codes made by my own. These sources are made from some courses which provided by Microsoft, Coursera, and Udemy. The following words are about the courses which I have ever took or I am taking now. By the way, move your mouse, let the page down, you can see the links of my notes and code
-### From Microsoft     
-- Data Science Orientation by Graeme Malcolm and Liberty J. Munson
->
+Some notes and codes made by my own. These sources are made from some courses which provided by Coursera, Udemy and Microsoft. The following words are about the courses which I have ever took or I am taking now. By the way, move your mouse, let the page down, you can see the links of my notes and code
 ### From Coursera
 - Machine Learning by Andrew Ng
-- Mathematics for Machine Learning : Linear Algebra by David Dye, Samuel J. Cooper, and A Freddie Page
-- Python Data Structure by Charles Severance
 - Using Python to Access Web Data by Charles Severance
+- Python Data Structure by Charles Severance
+- Mathematics for Machine Learning : Linear Algebra by David Dye, Samuel J. Cooper, and A Freddie Page
 >
 ### From Udemy
 - Python 與資料科學入門-郭耀仁
 >
-# Data Science Orientation
-<!--![](https://github.com/tailer954/MOOCsLearning/blob/master/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson.PNG)-->
-### Note
-- [資料科學概論](https://github.com/tailer954/MOOCsLearning/blob/master/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E6%A6%82%E8%AB%96.pdf)
+### From Microsoft     
+- Data Science Orientation by Graeme Malcolm and Liberty J. Munson
 >
+
 # Machine Learning
 <!--![](https://github.com/tailer954/Coursera-aiLearning/blob/master/ML-Andrew%20Ng/ML-Andrew%20Wu.png)-->
 >
@@ -43,10 +39,6 @@ Some notes and codes made by my own. These sources are made from some courses wh
 - [Code07 : K-Means Clustering and PCA](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2008%20-%20K-Means%20Clustering%20and%20PCA/K-Means%20Clustering%20and%20PCA.m)
 - [Code08 : Anomaly Detection and Recommender Systems](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2009%20-%20Anomaly%20Detection%20and%20Recommender%20Systems/Anomaly%20Detection%20and%20Recommender%20Systems.m)
 >
-# Mathematics for Machine Learning : Linear Algebra
->
-### Note
-- [Mathematics for Machine Learning : Linear Algebra](https://github.com/tailer954/MOOCsLearning/blob/master/Mathematics%20for%20Machine%20Learning-David%20Dye%2C%20Samuel%20J.%20Cooper%2C%20and%20A%20Freddie%20Page/Part01_Linear%20algebra.pdf)
 <!--## Course Content
 > 
 ### Basic Concept About ML
@@ -74,6 +66,23 @@ Bias/variance、Regularization、Learning curves、Error analysis、Ceiling anal
 ### Some Applications
 Recommender systems、Large scale ML、Photo OCR-->
 
+# Using Python to Access Web Data
+
+### Note
+- [Note01：Regular Expressions](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week01_Regular%20Expression.pdf)
+- [Note02：Network and Sockets](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week02_Network%20and%20Sockets.pdf)
+- [Note03：Programs that Surf the Web](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week03_Programs%20that%20Surf%20the%20Web.pdf)
+- [Note04：Web Services and XML](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week04_Web%20Services%20and%20XML.pdf)
+- [Note05：JSON and the REST Architecture](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week05_JSON%20and%20the%20REST%20Architecture.pdf)
+>
+### Code
+- [Code01：Extracting Data With Regular Expressions](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2011%E3%80%81Regular%20Expressions.py)
+- [Code02：Understanding the Request Response Cycle](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2012%E3%80%81Networks%20and%20Sockets.py)
+- [Code03：Scraping HTML Data with BeautifulSoup](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81Programs%20that%20Surf%20the%20Web_01.py)
+- [Code04：Following Links in HTML Using BeautifulSoup](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81Programs%20that%20Surf%20the%20Web_02.py)
+- [Code05：Extracting Data from XML](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81Web%20Services%20and%20XML.py)
+- [Code06：Extracting Data from JSON](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81JSON%20and%20the%20REST%20Architecture_01.py)
+- [Code07：Using the GeoJSON API](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81JSON%20and%20the%20REST%20Architecture_02.py)
 >
 # Python Data Structure
 <!--![](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Python%20Data%20Structure.png)-->
@@ -87,23 +96,19 @@ Recommender systems、Large scale ML、Photo OCR-->
 - [Code04：Dictionaries](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2009%E3%80%81Dictionaries.py)
 - [Code05：Tuples](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2010%E3%80%81Tuples.py)
 >
-# Using Python to Access Web Data
-
-### Note
-- [Note01：Regular Expressions](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week01_Regular%20Expression.pdf)
-- [Note02：Network and Sockets](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week02_Network%20and%20Sockets.pdf)
-- [Note03：Programs that Surf the Web](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week03_Programs%20that%20Surf%20the%20Web.pdf)
-- [Note04：Web Services and XML](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week04_Web%20Services%20and%20XML.pdf)
+# Mathematics for Machine Learning : Linear Algebra
 >
-### Code
-- [Code01：Extracting Data With Regular Expressions](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2011%E3%80%81Regular%20Expressions.py)
-- [Code02：Understanding the Request Response Cycle](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2012%E3%80%81Networks%20and%20Sockets.py)
-- [Code03：Scraping HTML Data with BeautifulSoup](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81Programs%20that%20Surf%20the%20Web_01.py)
-- [Code04：Following Links in HTML Using BeautifulSoup](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81Programs%20that%20Surf%20the%20Web_02.py)
-- [Code05：Extracting Data from XML](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Chapter%2013%E3%80%81Web%20Services%20and%20XML.py)
+### Note
+- [Mathematics for Machine Learning : Linear Algebra](https://github.com/tailer954/MOOCsLearning/blob/master/Mathematics%20for%20Machine%20Learning-David%20Dye%2C%20Samuel%20J.%20Cooper%2C%20and%20A%20Freddie%20Page/Part01_Linear%20algebra.pdf)
 >
 # Python 與資料科學入門
 <!--![](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.png)-->
 >
 ### Note
 - [Python 與 資料科學入門](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.pdf)
+>
+# Data Science Orientation
+<!--![](https://github.com/tailer954/MOOCsLearning/blob/master/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson.PNG)-->
+### Note
+- [資料科學概論](https://github.com/tailer954/MOOCsLearning/blob/master/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E6%A6%82%E8%AB%96.pdf)
+>
