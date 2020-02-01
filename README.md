@@ -1,5 +1,6 @@
 # Overview
 Some notes and codes made by my own. These sources are made from some courses which provided by Coursera, Udemy and Microsoft. The following words are about the courses which I have ever took or I am taking now. By the way, move your mouse, let the page down, you can see the links of my notes and code
+>
 ### From Coursera
 - Machine Learning by Andrew Ng
 - Using Python to Access Web Data by Charles Severance
@@ -15,7 +16,7 @@ Some notes and codes made by my own. These sources are made from some courses wh
 >
 
 # Machine Learning
-<!--![](https://github.com/tailer954/Coursera-aiLearning/blob/master/ML-Andrew%20Ng/ML-Andrew%20Wu.png)-->
+![](https://github.com/tailer954/Coursera-aiLearning/blob/master/ML-Andrew%20Ng/ML-Andrew%20Wu.png)
 >
 ### Code
 - [Code01 : Linear Regression with Multiple Variables](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2002%20-%20Linear%20Regression%20with%20Multiple%20Variables/Linear%20Regression.m)
@@ -87,7 +88,7 @@ Recommender systems、Large scale ML、Photo OCR-->
 >
 # Python Data Structure
 >
-<!--![](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Python%20Data%20Structure.png)-->
+![](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Python%20Data%20Structure.png)
 ### Code
 - [Code01：Strings](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2006%E3%80%81Strings.py)
 - [Code02：Files](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2007%E3%80%81Files.py)
@@ -124,7 +125,7 @@ Recommender systems、Large scale ML、Photo OCR-->
 >
 # Data Science Orientation
 >
-<!--![](https://github.com/tailer954/MOOCsLearning/blob/master/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson.PNG)-->
+![](https://github.com/tailer954/MOOCsLearning/blob/master/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson.PNG)
 ### Note
 - [資料科學概論](https://github.com/tailer954/MOOCsLearning/blob/master/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E6%A6%82%E8%AB%96.pdf)
 >
