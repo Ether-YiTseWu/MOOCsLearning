@@ -106,8 +106,8 @@ Recommender systems、Large scale ML、Photo OCR-->
 # 建網百科全書
 >
 ### Project
-- Project01:HTML
--
+- Project01：HTML
+- Project02：CSS
 ### Code
 - [Code01：Form](https://github.com/tailer954/MOOCsLearning/blob/master/%E5%BB%BA%E7%B6%B2%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8/HTML/Form.html)
 - [Code02：Others](https://github.com/tailer954/MOOCsLearning/blob/master/%E5%BB%BA%E7%B6%B2%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8/HTML/Others.html)
@@ -117,7 +117,7 @@ Recommender systems、Large scale ML、Photo OCR-->
 - Note02：CSS
 >
 # Python 與資料科學入門
-<!--![](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.png)-->
+![](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.png)
 >
 ### Note
 - [Python 與 資料科學入門](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.pdf)
