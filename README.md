@@ -1,5 +1,5 @@
 # Overview
-Some notes and codes made by my own. These sources are made from some courses which provided by Coursera, Udemy and Microsoft. The following words are about the courses which I have ever took or I am taking now. By the way, move your mouse, let the page down, you can see the links of my notes and code
+Some notes and codes made by my own. These sources are made from some courses which provided by Coursera, Udemy and Microsoft. By the way, move your mouse, let the page down, you can see the links of my notes and code
 >
 ### From Coursera
 - Machine Learning by Andrew Ng
