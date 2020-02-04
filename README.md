@@ -110,11 +110,11 @@ Recommender systems、Large scale ML、Photo OCR-->
 - Project01：HTML
 - Project02：CSS
 ### Code
-- [Code01：Form](https://github.com/tailer954/MOOCsLearning/blob/master/%E5%BB%BA%E7%B6%B2%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8/HTML/Form.html)
-- [Code02：Others](https://github.com/tailer954/MOOCsLearning/blob/master/%E5%BB%BA%E7%B6%B2%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8/HTML/Others.html)
+- [Code01：HTML(Form)](https://github.com/tailer954/MOOCsLearning/blob/master/%E5%BB%BA%E7%B6%B2%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8/HTML/Form.html)
+- [Code02：HTML(Others)](https://github.com/tailer954/MOOCsLearning/blob/master/%E5%BB%BA%E7%B6%B2%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8/HTML/Others.html)
 >
 ### Note
-- Note01：HTML
+- [Note01：HTML](https://github.com/tailer954/MOOCsLearning/blob/master/%E5%BB%BA%E7%B6%B2%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8/HTML/%E5%BB%BA%E7%B6%B2%E7%99%BE%E7%A7%91%E5%85%A8%E6%9B%B8_HTML.pdf)
 - Note02：CSS
 >
 # Python 與資料科學入門
