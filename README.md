@@ -70,14 +70,14 @@ Recommender systems、Large scale ML、Photo OCR-->
 # Algorithm, Part I
 >
 ### ``Programming Assignment``
-Assignment01：Percolation
-Assignment02：
-Assignment03：
+Assignment01：Percolation   
+Assignment02：   
+Assignment03：   
 >
 ### ``Programming Practice``
-Practice01：Quick-find to solve dynamic connectivity
-Practice02：
-Practice03：
+Practice01：Quick-find to solve dynamic connectivity   
+Practice02：   
+Practice03：   
 >
 # Python Data Structure
 >
