@@ -3,8 +3,9 @@ Some notes and codes made by my own. These sources are made from some courses wh
 >
 ### From Coursera
 - Machine Learning by Andrew Ng
-- Using Python to Access Web Data by Charles Severance
+- Algorithm, Part I by Kevin Wayne and Robert Sedgewick
 - Python Data Structure by Charles Severance
+- Using Python to Access Web Data by Charles Severance
 - Mathematics for Machine Learning : Linear Algebra by David Dye, Samuel J. Cooper, and A Freddie Page
 >
 ### From Udemy
@@ -16,7 +17,6 @@ Some notes and codes made by my own. These sources are made from some courses wh
 >
 
 # Machine Learning
-![](https://github.com/tailer954/Coursera-aiLearning/blob/master/ML-Andrew%20Ng/ML-Andrew%20Wu.png)
 >
 ### Code
 - [Code01 : Linear Regression with Multiple Variables](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2002%20-%20Linear%20Regression%20with%20Multiple%20Variables/Linear%20Regression.m)
@@ -67,7 +67,30 @@ Bias/variance、Regularization、Learning curves、Error analysis、Ceiling anal
 >
 ### Some Applications
 Recommender systems、Large scale ML、Photo OCR-->
-
+# Algorithm, Part I
+>
+### Programming Assignment
+- Assignment01：Percolation
+- Assignment02：
+- Assignment03：
+>
+### Programming Practice
+- Practice01：Quick-find to solve dynamic connectivity
+- Practice02：
+- Practice03：
+>
+# Python Data Structure
+>
+### Code
+- [Code01：Strings](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2006%E3%80%81Strings.py)
+- [Code02：Files](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2007%E3%80%81Files.py)
+- [Code03：Lists](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2008%E3%80%81Lists.py)
+- [Code04：Dictionaries](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2009%E3%80%81Dictionaries.py)
+- [Code05：Tuples](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2010%E3%80%81Tuples.py)
+>
+### Note
+- [Python data structure](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/%E9%9B%B6%E5%9F%BA%E7%A4%8EPython%E5%85%A5%E9%96%80%20%E2%80%94%20Python%20data%20structure.pdf)
+>
 # Using Python to Access Web Data
 >
 ### Code
@@ -85,19 +108,6 @@ Recommender systems、Large scale ML、Photo OCR-->
 - [Note03：Programs that Surf the Web](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week03_Programs%20that%20Surf%20the%20Web.pdf)
 - [Note04：Web Services and XML](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week04_Web%20Services%20and%20XML.pdf)
 - [Note05：JSON and the REST Architecture](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Using%20Python%20to%20Access%20Web%20Data/Using%20python%20to%20access%20web%20data%20week05_JSON%20and%20the%20REST%20Architecture.pdf)
->
-# Python Data Structure
->
-![](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Python%20Data%20Structure.png)
-### Code
-- [Code01：Strings](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2006%E3%80%81Strings.py)
-- [Code02：Files](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2007%E3%80%81Files.py)
-- [Code03：Lists](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2008%E3%80%81Lists.py)
-- [Code04：Dictionaries](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2009%E3%80%81Dictionaries.py)
-- [Code05：Tuples](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/Chapter%2010%E3%80%81Tuples.py)
->
-### Note
-- [Python data structure](https://github.com/tailer954/MOOCsLearning/blob/master/PYTHON-Charles%20Severance/Python%20Data%20Structures/%E9%9B%B6%E5%9F%BA%E7%A4%8EPython%E5%85%A5%E9%96%80%20%E2%80%94%20Python%20data%20structure.pdf)
 >
 # Mathematics for Machine Learning : Linear Algebra
 >
@@ -118,14 +128,12 @@ Recommender systems、Large scale ML、Photo OCR-->
 - Note02：CSS
 >
 # Python 與資料科學入門
-![](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.png)
 >
 ### Note
 - [Python 與 資料科學入門](https://github.com/tailer954/MOOCsLearning/blob/master/Python%20%E8%88%87%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80-%E9%83%AD%E8%80%80%E4%BB%81/Python%20%E8%88%87%20%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E5%85%A5%E9%96%80.pdf)
 >
 # Data Science Orientation
 >
-![](https://github.com/tailer954/MOOCsLearning/blob/master/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson.PNG)
 ### Note
 - [資料科學概論](https://github.com/tailer954/MOOCsLearning/blob/master/Data%20Science%20Orientation-Graeme%20Malcolm%20and%20Liberty%20J.%20Munson/%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E6%A6%82%E8%AB%96.pdf)
 >
