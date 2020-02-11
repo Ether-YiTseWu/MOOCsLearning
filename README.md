@@ -17,6 +17,7 @@ Some notes and codes made by my own. These sources are made from some courses wh
 >
 
 # Machine Learning
+This machine learning course by Stanford professor, Andrew Ng is well-known. There are about three million students who have enrolled the course on Coursera platform
 >
 ### ``Code``
 [Code01 : Linear Regression with Multiple Variables](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2002%20-%20Linear%20Regression%20with%20Multiple%20Variables/Linear%20Regression.m)   
