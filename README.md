@@ -17,7 +17,7 @@ Some notes and codes made by my own. These sources are made from some courses wh
 >
 
 # Machine Learning
-The machine learning course by Stanford professor, Andrew Ng is well-known. There are about three million students who have enrolled it on Coursera platform. In addition, I see the key word, "machine learning Andrew Ng" appear on website very often. Many netizens recommend it to beginners of ML because it's easy to understand
+The machine learning course, made by a Stanford professor, Andrew Ng, is well-known. Three million students have enrolled it on Coursera platform. In addition, I type the key word on website, "machine learning Andrew Ng", there are a lot of positive criticisms. Many netizens recommend this course for ML beginners because it's easy to understand
 >
 ### ``Code``
 [Code01 : Linear Regression with Multiple Variables](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2002%20-%20Linear%20Regression%20with%20Multiple%20Variables/Linear%20Regression.m)   
