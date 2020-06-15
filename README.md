@@ -17,7 +17,7 @@ There are some notes and codes made by myself in this project, "MOOCsLearning". 
 >
 
 # Machine Learning
-The machine learning course was made by a well-known Stanford professor, Andrew Ng. Three million students have enrolled it on Coursera platform. In addition, I type the key word on website, "machine learning Andrew Ng", there are a lot of positive criticisms. Many netizens recommend this course for ML beginners because it's easy to understand
+The machine learning course was made by a well-known Stanford professor, Andrew Ng. There are three million students having enrolled it on Coursera platform. Many netizens recommend this course for ML beginners
 >
 ### ``Code``
 [Code01 : Linear Regression with Multiple Variables](https://github.com/tailer954/MOOCsLearning/blob/master/ML-Andrew%20Ng/Week%2002%20-%20Linear%20Regression%20with%20Multiple%20Variables/Linear%20Regression.m)   
