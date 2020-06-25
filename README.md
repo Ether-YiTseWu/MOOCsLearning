@@ -2,18 +2,18 @@
 There are some notes and codes made by myself in this project, "MOOCsLearning". These sources are made from some courses provided by Coursera, Udemy or Microsoft. By the way, move your mouse, let the page down, you can see the links of my notes and code
 >
 ### ``From Coursera``
-- Machine Learning by Andrew Ng
-- Algorithm, Part I by Kevin Wayne and Robert Sedgewick
-- Python Data Structure by Charles Severance
-- Using Python to Access Web Data by Charles Severance
-- Mathematics for Machine Learning : Linear Algebra by David Dye, Samuel J. Cooper, and A Freddie Page
+- **Machine Learning** (by Andrew Ng)
+- **Algorithm, Part I** (by Kevin Wayne and Robert Sedgewick)
+- **Python Data Structure** (by Charles Severance)
+- **Using Python to Access Web Data** (by Charles Severance)
+- **Mathematics for Machine Learning : Linear Algebra** (by David Dye, Samuel J. Cooper, and A Freddie Page)
 >
 ### ``From Udemy``
-- 建網百科全書-Ken
-- Python 與資料科學入門-郭耀仁
+- **建網百科全書** (by Ken)
+- **Python 與資料科學入門** (by 郭耀仁)
 >
 ### ``From Microsoft``   
-- Data Science Orientation by Graeme Malcolm and Liberty J. Munson
+- **Data Science Orientation** (by Graeme Malcolm and Liberty J. Munson)
 >
 
 # Machine Learning
